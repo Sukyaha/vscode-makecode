@@ -24,7 +24,6 @@
     "url": "https://github.com/microsoft/vscode-makecode"
   },
   "activationEvents": [
-    "onCommand:makecode.create",
     "workspaceContains:./pxt.json",
     "onFileSystem:mkcdfs"
   ],
